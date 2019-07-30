@@ -1,0 +1,32 @@
+<?php
+	session_start();
+	/*
+	if(isset($_SESSION['content-administrator']) && isset($_SESSION['technical-administrator']))
+	{
+		header('Location:../technical-administrator.php');
+		exit();
+	}else{
+		if(isset($_SESSION['content-administrator']))
+		{
+			header('Location:../content-administrator.php');
+			exit();
+		}else{
+			if(isset($_SESSION['technical-administrator']))
+			{
+				header('Location:../technical-administrator.php');
+				exit();
+			}
+			else{
+				session_unset();
+				session_destroy();
+				header('Location:../admin-login.php');
+				exit();
+			}
+		}
+	}*/
+	session_unset();
+	session_destroy();
+	header('Location:../index.php');
+	exit();
+	
+?>
