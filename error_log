@@ -1,0 +1,45 @@
+[29-Jan-2019 19:37:56 UTC] PHP Fatal error:  Cannot redeclare dbconn() (previously declared in /home/gnitcoza/public_html/objects/db_connect.php:4) in /home/gnitcoza/public_html/objects/db_connect.php on line 4
+[30-Jan-2019 16:31:53 UTC] PHP Fatal error:  Cannot redeclare dbconn() (previously declared in /home/gnitcoza/public_html/objects/db_connect.php:4) in /home/gnitcoza/public_html/objects/db_connect.php on line 4
+[30-Jan-2019 16:40:51 UTC] PHP Fatal error:  Cannot redeclare dbconn() (previously declared in /home/gnitcoza/public_html/objects/db_connect.php:4) in /home/gnitcoza/public_html/objects/db_connect.php on line 4
+[30-Jan-2019 16:49:22 UTC] PHP Fatal error:  Cannot redeclare dbconn() (previously declared in /home/gnitcoza/public_html/objects/db_connect.php:4) in /home/gnitcoza/public_html/objects/db_connect.php on line 4
+[30-Jan-2019 16:50:29 UTC] PHP Fatal error:  Cannot redeclare dbconn() (previously declared in /home/gnitcoza/public_html/objects/db_connect.php:4) in /home/gnitcoza/public_html/objects/db_connect.php on line 4
+[30-Jan-2019 16:51:39 UTC] PHP Fatal error:  Cannot redeclare dbconn() (previously declared in /home/gnitcoza/public_html/objects/db_connect.php:4) in /home/gnitcoza/public_html/objects/db_connect.php on line 4
+[30-Jan-2019 17:03:29 UTC] PHP Fatal error:  Cannot redeclare dbconn() (previously declared in /home/gnitcoza/public_html/objects/db_connect.php:4) in /home/gnitcoza/public_html/objects/db_connect.php on line 4
+[30-Jan-2019 17:34:52 UTC] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/gnitcoza/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1632
+[30-Jan-2019 17:40:28 UTC] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/gnitcoza/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1632
+[30-Jan-2019 18:03:52 UTC] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/gnitcoza/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1632
+[30-Jan-2019 18:22:09 UTC] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/gnitcoza/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1632
+[31-Jan-2019 18:59:09 UTC] PHP Warning:  preg_match() expects parameter 4 to be long, string given in /home/gnitcoza/public_html/objects/search.php on line 13
+[31-Jan-2019 19:04:48 UTC] PHP Warning:  preg_match() expects parameter 4 to be long, string given in /home/gnitcoza/public_html/objects/search.php on line 13
+[01-Feb-2019 11:24:11 UTC] PHP Warning:  preg_match() expects parameter 4 to be long, string given in /home/gnitcoza/public_html/objects/search.php on line 13
+[02-Feb-2019 20:53:44 UTC] PHP Warning:  escapeshellcmd() has been disabled for security reasons in /home/gnitcoza/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1632
+[03-Feb-2019 10:43:06 UTC] PHP Fatal error:  Call to a member function isSMTP() on null in /home/gnitcoza/public_html/smtpemail.php on line 4
+[03-Feb-2019 10:44:28 UTC] PHP Fatal error:  Call to a member function isSMTP() on null in /home/gnitcoza/public_html/smtpemail.php on line 6
+[03-Feb-2019 10:48:18 UTC] PHP Fatal error:  Call to a member function isSMTP() on null in /home/gnitcoza/public_html/smtpemail.php on line 6
+[03-Feb-2019 10:53:44 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/gnitcoza/public_html/smtpemail.php on line 11
+[06-Feb-2019 08:02:50 UTC] PHP Warning:  preg_match() expects parameter 4 to be long, string given in /home/gnitcoza/public_html/objects/search.php on line 13
+[06-Feb-2019 08:05:32 UTC] PHP Warning:  preg_match() expects parameter 4 to be long, string given in /home/gnitcoza/public_html/objects/search.php on line 13
+[06-Feb-2019 08:13:40 UTC] PHP Warning:  preg_match() expects parameter 4 to be long, string given in /home/gnitcoza/public_html/objects/search.php on line 13
+[06-Feb-2019 08:13:40 UTC] PHP Warning:  preg_match() expects parameter 4 to be long, string given in /home/gnitcoza/public_html/objects/results_data.php on line 48
+[06-Feb-2019 08:14:05 UTC] PHP Warning:  preg_match() expects parameter 4 to be long, string given in /home/gnitcoza/public_html/objects/search.php on line 13
+[06-Feb-2019 08:14:05 UTC] PHP Warning:  preg_match() expects parameter 4 to be long, string given in /home/gnitcoza/public_html/objects/results_data.php on line 48
+[06-Feb-2019 08:23:53 UTC] PHP Warning:  preg_match() expects parameter 4 to be long, string given in /home/gnitcoza/public_html/objects/search.php on line 13
+[06-Feb-2019 08:23:53 UTC] PHP Warning:  preg_match() expects parameter 4 to be long, string given in /home/gnitcoza/public_html/objects/results_data.php on line 48
+[06-Feb-2019 09:09:26 UTC] PHP Warning:  preg_match() expects parameter 4 to be long, string given in /home/gnitcoza/public_html/objects/search.php on line 13
+[06-Feb-2019 09:09:26 UTC] PHP Warning:  preg_match() expects parameter 4 to be long, string given in /home/gnitcoza/public_html/objects/results_data.php on line 48
+[06-Feb-2019 09:21:42 UTC] PHP Warning:  preg_match() expects parameter 4 to be long, string given in /home/gnitcoza/public_html/objects/results_data.php on line 48
+[06-Feb-2019 09:25:11 UTC] PHP Warning:  preg_match() expects parameter 4 to be long, string given in /home/gnitcoza/public_html/objects/results_data.php on line 48
+[06-Feb-2019 09:25:17 UTC] PHP Warning:  preg_match() expects parameter 4 to be long, string given in /home/gnitcoza/public_html/objects/results_data.php on line 48
+[06-Feb-2019 09:28:42 UTC] PHP Warning:  preg_match() expects parameter 4 to be long, string given in /home/gnitcoza/public_html/objects/results_data.php on line 48
+[06-Feb-2019 09:29:55 UTC] PHP Warning:  preg_match() expects parameter 4 to be long, string given in /home/gnitcoza/public_html/objects/results_data.php on line 48
+[06-Feb-2019 09:39:04 UTC] PHP Warning:  preg_match() expects parameter 4 to be long, string given in /home/gnitcoza/public_html/objects/results_data.php on line 48
+[06-Feb-2019 09:39:23 UTC] PHP Warning:  preg_match() expects parameter 4 to be long, string given in /home/gnitcoza/public_html/objects/results_data.php on line 48
+[06-Feb-2019 09:41:25 UTC] PHP Warning:  preg_match() expects parameter 4 to be long, string given in /home/gnitcoza/public_html/objects/results_data.php on line 48
+[06-Feb-2019 09:43:34 UTC] PHP Warning:  preg_match() expects parameter 4 to be long, string given in /home/gnitcoza/public_html/objects/results_data.php on line 48
+[06-Feb-2019 09:44:04 UTC] PHP Warning:  preg_match() expects parameter 4 to be long, string given in /home/gnitcoza/public_html/objects/results_data.php on line 48
+[06-Feb-2019 09:44:17 UTC] PHP Warning:  preg_match() expects parameter 4 to be long, string given in /home/gnitcoza/public_html/objects/results_data.php on line 48
+[06-Feb-2019 09:47:46 UTC] PHP Warning:  preg_match() expects parameter 4 to be long, string given in /home/gnitcoza/public_html/objects/results_data.php on line 48
+[06-Feb-2019 09:48:59 UTC] PHP Warning:  preg_match() expects parameter 4 to be long, string given in /home/gnitcoza/public_html/objects/results_data.php on line 48
+[06-Feb-2019 09:50:22 UTC] PHP Warning:  preg_match() expects parameter 4 to be long, string given in /home/gnitcoza/public_html/objects/results_data.php on line 48
+[06-Feb-2019 09:50:30 UTC] PHP Warning:  preg_match() expects parameter 4 to be long, string given in /home/gnitcoza/public_html/objects/results_data.php on line 337
+[06-Feb-2019 09:50:30 UTC] PHP Warning:  preg_match() expects parameter 4 to be long, string given in /home/gnitcoza/public_html/objects/results_data.php on line 48
