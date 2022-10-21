@@ -5,7 +5,7 @@
     		$db = "gnitcoza_gnit";
 	    	$servername = "localhost";
     		$username = "gnitcoza_MasondoAdmin";
-    		$password = "waterinthedeepcallecho";
+    		$password = "";
 
 	    	try 
     		{
